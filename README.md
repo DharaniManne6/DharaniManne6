@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Dharani Manne
 
-### ML Enthusiast | Data Science & AI Learner | WSU
+<marquee behavior="scroll" direction="left" scrollamount="5">
+  🚀 Exploring Data Science & Machine Learning!
+</marquee>
 
 
 
