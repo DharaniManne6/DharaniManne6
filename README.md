@@ -4,7 +4,7 @@
 I am a passionate **Machine Learning enthusiast** with a strong interest in **Data Science, Artificial Intelligence, and Machine Learning**. Currently pursuing my studies at **Wright State University (WSU)**. I love building projects that turn data into actionable insights and exploring new technologies in AI.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="250"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="250"/>
 </p>
 
 ## 🔗 Connect with Me
