@@ -11,6 +11,7 @@ I am a passionate **Machine Learning enthusiast** with a strong interest in **Da
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dharu-manne/)
-[![Email](https://img.shields.io/badge/Email-Connect-red?style=flat&logo=gmail)](mailto:dharu.manne@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharu-manne/)  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharu.manne@gmail.com)
 
