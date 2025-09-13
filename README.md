@@ -1,3 +1,18 @@
+<!-- Top Border -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Left Border -->
+    <td width="5%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="700">
+    </td>
+
+    <!-- Content -->
+    <td width="90%" align="center">
+
 # 👋 Hi, I'm Dharani Manne
 
 ## 📝 About Me
@@ -22,3 +37,16 @@ I am a passionate **Machine Learning enthusiast** with a strong interest in **Da
   </a>
 </p>
 
+    </td>
+
+    <!-- Right Border -->
+    <td width="5%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="700">
+    </td>
+  </tr>
+</table>
+
+<!-- Bottom Border -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
