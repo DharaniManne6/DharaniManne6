@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Dharani Manne
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  🚀 Exploring Data Science & Machine Learning!
-</marquee>
-
-
 
 ## 📝 About Me
 I am a passionate **Machine Learning enthusiast** with a strong interest in **Data Science, Artificial Intelligence, and Machine Learning**. Currently pursuing my studies at **Wright State University (WSU)**. I love building projects that turn data into actionable insights and exploring new technologies in AI.
