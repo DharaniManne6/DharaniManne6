@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Dharani Manne
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="50%" style="margin-top:-10px;"/>
-</p>
-
 ## 📝 About Me
 I am a passionate **Machine Learning enthusiast** with a strong interest in **Data Science, Artificial Intelligence, and Machine Learning**. Currently pursuing my studies at **Wright State University (WSU)**. I love building projects that turn data into actionable insights and exploring new technologies in AI.
 
