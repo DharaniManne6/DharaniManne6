@@ -16,15 +16,7 @@ I am a passionate **Machine Learning enthusiast** with a strong interest in **Da
   <a href="mailto:dharu.manne@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="display:inline-block; text-decoration:none;"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@dharu.manne" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="display:inline-block; text-decoration:none;"/>
-  </a>
 </p>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ff-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </p>
-
-Check out my articles here: [Medium: Dharani Manne](https://medium.com/@dharu.manne)
-
